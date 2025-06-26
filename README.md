@@ -10,9 +10,6 @@
   <a href="https://velog.io/@jcy1016/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/chaan__y/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- </a>
 </div>
 
 <br>
@@ -24,7 +21,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/tanstack query-FF4154?style=for-the-badge&logo=react query&logoColor=black">
+<img src="https://img.shields.io/badge/tanstack query-FF4154?style=for-the-badge&logo=react-query&logoColor=black">
 <br/>
 <img src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=styled-components&logoColor=black">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
@@ -39,27 +36,18 @@
 
 # Projects
 
-### 1. ShellWe
-
-- **설명**: 물품 및 재능 교환 웹 애플리케이션
-- **목적**: 물품 교환을 넘어, 재능까지 교환할 수 있는 플랫폼을 제공하여, 사용자 간의 자원 활용과 상호 협력을 촉진하는 웹 애플리케이션 개발
-- **기간**: 4주
-
-깃허브 바로가기: https://github.com/Jeongchanyeong/ShellWe?tab=readme-ov-file
-
-### 2. ECHO-ECO
-
-- **설명**: 환경 인식 개선 앱태크 서비스
-- **목적**: 앱태크 기능을 활용하여 사용자가 환경을 쉽게 인식하고, 실천할 수 있도록 돕는 서비스 개발
-- **기간**: 6주
-
-깃허브 바로가기: https://github.com/Jeongchanyeong/ECHO-ECO
-
-### 3. 두더지 (Do-Dose-Did)
+### 1. 두더지 (Do-Dose-Did)
 
 - **설명**: 친구들과 함께하는 1일1다짐 두더지(Do Does Did)
-- **목적**: 유저가 매일 이루고 싶은 작은 목표나 다짐을 기록하고 실천하도록 돕는 서비스 개발
-- **기간**: 6주
+- **기간**: 2024.09 - 2024.11
+
+깃허브 바로가기: https://github.com/dodoesdid-project
+
+
+### 2. Chooz
+
+- **설명**: 어떤 사진이 더 좋은지 고민할 때, 투표를 통해 다수의 의견을 모아 최적의 사진을 쉽게 선택할 수 있는 서비스
+- **기간**: 2025. 02 - 진행 중
 
 깃허브 바로가기: https://github.com/dodoesdid-project
 
