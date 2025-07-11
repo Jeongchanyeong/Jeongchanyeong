@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<br>
+
 
 ## Tech Stack
 
@@ -34,26 +34,7 @@
 
 <br>
 
-# Projects
 
-### 1. 두더지 (Do-Dose-Did)
-
-친구들과 함께하는 1일1다짐 두더지(Do Does Did)
-
-**기간**: 2024.09 - 2024.11
-
-깃허브 바로가기: https://github.com/dodoesdid-project
-
-
-### 2. Chooz
-
-어떤 사진이 더 좋은지 고민할 때, 투표를 통해 다수의 의견을 모아 최적의 사진을 쉽게 선택할 수 있는 서비스
-
-**기간**: 2025. 02 - 진행 중
-
-깃허브 바로가기: https://github.com/dodoesdid-project
-
-<br><br>
 <div>
 <a href="https://github.com/Jeongchanyeong"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongchanyeong&layout=compact&theme=nord&hide_border=true" />
 </a>
